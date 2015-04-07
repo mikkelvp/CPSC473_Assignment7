@@ -1,0 +1,26 @@
+{
+  "name": "CPSC473_Assignment7",
+  "version": "0.0.0",
+  "description": "Assignment 7",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikkelvp/CPSC473_Assignment7.git"
+  },
+  "author": "mikkelvp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikkelvp/CPSC473_Assignment7/issues"
+  },
+  "homepage": "https://github.com/mikkelvp/CPSC473_Assignment7",
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "express": "^4.12.3",
+    "redis": "^0.12.1"
+  },
+  "devDependencies": {}
+}
